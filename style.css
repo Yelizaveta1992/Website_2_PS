@@ -1,0 +1,31 @@
+body {
+    background: #121116;
+    text-align: center;
+    margin: 15%;
+}
+
+.block_title {
+    color: #fff;
+    font-size: 16px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.text_1 {color: #fff;
+    font-size: 15px;
+
+}
+.text_2 {color: #00c7fc;
+    font-size: 15px;
+}
+.text_3 {color: #fff;
+    font-size: 15px;
+
+}
+.text {
+    display:inline-block;
+
+}
+.media {
+    margin-bottom: 85px;
+    margin-top: 20px;
+}
